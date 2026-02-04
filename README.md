@@ -5,35 +5,48 @@ It helps developers, students, and content creators easily transform text to ens
 
 ---
 
-## ✨ Features
+# 🇲🇲 Haolei — Myanmar Encoding Normalization (Zawgyi → Unicode)
 
-- 🔁 **Bidirectional conversion** — Zawgyi ⇄ Unicode  
-- ⚡ **Instant result** — converts text as you type  
-- 💻 **Offline support** — works completely without internet  
-- 🧩 **Lightweight & fast** — pure HTML, CSS, and JavaScript  
-- 🌐 **Cross-platform** — works on Windows, macOS, Linux, Android, and iOS browsers  
+**Haolei** provides Myanmar encoding normalization focused on accurate **Zawgyi to Unicode conversion** for websites, documents, and applications. The project converts legacy Zawgyi-encoded text into standard Unicode so Myanmar text displays correctly across modern platforms and software.
+
+---
+
+## ✨ Key Features
+
+- 🔁 **Primary focus:** Zawgyi to Unicode conversion (also supports Unicode → Zawgyi where needed)
+- ⚡ **Instant normalization:** Converts text as you type for quick verification
+- 💻 **Offline-capable:** Pure HTML/JS implementation works without a server
+- 🧩 **Lightweight & fast:** Minimal footprint for embedding in projects
+- 🌐 **Compatibility:** Intended for web, CMS content, documents, and applications
 
 ---
 
 ## 🚀 Live Demo
 
-👉 **Try it here:**  
-[https://haoleimrh.github.io/HaoleiConverter/](https://haoleimrh.github.io/HaoleiConverter/)
+The page is hosted at:
+
+https://mmencoder.marareih.org/
 
 ---
 
-## 🛠️ How to Use
+## 🛠️ Usage (Quick)
 
-1. Paste your Myanmar text (Zawgyi or Unicode) in the input box.  
-2. Click **Convert** or choose **Zawgyi → Unicode** or **Unicode → Zawgyi**.  
-3. Copy the converted text from the output box.
+1. Paste or type Myanmar text (Zawgyi or Unicode) into the input box.  
+2. The tool will normalize the encoding (Zawgyi → Unicode) automatically or on demand.  
+3. Copy the resulting Unicode text for use in websites, documents, or apps.
 
 ---
 
-## 🧩 Installation (Local Use)
+## 🧩 Run Locally
 
-You can run it locally without any setup:
+Clone and open locally in a browser:
 
 ```bash
-git clone https://github.com/haoleimrh/HaoleiConverter.git
+git clone https://github.com/Laitei40/haoleiconverter.git
 cd HaoleiConverter
+start index.html
+```
+
+---
+
+If you'd like, I can add a short usage example, a screenshot, or a recommended `.gitignore` and license file.
